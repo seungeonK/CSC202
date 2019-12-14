@@ -82,13 +82,12 @@ bool binaryExpressionTree::search(const string& searchItem) const
 
 void binaryExpressionTree::insert(const string& insertItem)
 {
-
-
+  cout << "Insert Function does not work." << endl;
 }
 
 void binaryExpressionTree::deleteNode(const string& deleteItem)
 {
-
+  cout << "DeleteNode Function does not work." << endl;
 }
 
 double binaryExpressionTree::evaluateExpressionTree(nodeType<string> *p)
